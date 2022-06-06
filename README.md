@@ -1,8 +1,9 @@
 # Minesweeper
 
-How to
 
 Hi. 
+
+Quickly how to
 
 Welcome in basic Console Minesweeper Game.
 
