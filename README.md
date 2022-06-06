@@ -7,11 +7,12 @@ Quickly how to
 
 Welcome in basic Console Minesweeper Game.
 
-If you would like to run it, just download repository then go to path 
+If you would like to run it, download repository and extract it.
 
-Minesweeper\Minesweeper\bin\Release\net6.0\publish\
+download and install dotnet 6.0 version
 
-and double click Minesweeper.exe
+Step into path -> \Minesweeper\ then build it in cmd (dotnet build Minesweeper.csproj)
+then step to the \Minesweeper\bin\Debug\net6.0\ and type Minesweeper.exe
 
 After that you will head a wall with undiscovered cells.
 
